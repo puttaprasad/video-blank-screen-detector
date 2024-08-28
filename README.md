@@ -1,0 +1,1 @@
+# video-blank-screen-detector
